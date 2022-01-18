@@ -1,0 +1,1 @@
+(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[6457],{66457:e=>{"use strict";e.exports=JSON.parse('{"categoryName":"White Palace","splitIds":["WhitePalaceOrb1","WhitePalaceOrb3","WhitePalaceOrb2","WhitePalaceTopLeverRoom","Kingsoul"],"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight"}')}}]);

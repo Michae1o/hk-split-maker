@@ -1,0 +1,1 @@
+(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[3881],{83881:e=>{"use strict";e.exports=JSON.parse('{"categoryName":"Hiveblood%","splitIds":["VengefulSpirit","EnterGreenpath","MothwingCloak","MantisClaw","TramPass","HiveEntry","Hiveblood"],"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight Category Extensions"}')}}]);

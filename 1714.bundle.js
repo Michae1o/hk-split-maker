@@ -1,0 +1,1 @@
+(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[1714],{31714:e=>{"use strict";e.exports=JSON.parse('{"categoryName":"Great Hopper%","splitIds":["VengefulSpirit","BlueLake","GreatHopper"],"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight Category Extensions"}')}}]);

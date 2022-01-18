@@ -1,0 +1,1 @@
+(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[3850],{43850:e=>{"use strict";e.exports=JSON.parse('{"categoryName":"Zote%","splitIds":["VengefulSpirit","EnterGreenpath","Zote1","MothwingCloak","MantisClaw","Zote2","TramPass","LittleFool","ZoteKilled"],"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight Category Extensions"}')}}]);

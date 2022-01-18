@@ -1,0 +1,1 @@
+(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[1213],{21213:e=>{"use strict";e.exports=JSON.parse('{"categoryName":"Trial of the Fool","splitIds":["ManualSplit"],"names":{"ManualSplit":"Fool (manual split)"},"icons":{"ManualSplit":"ColosseumGold"},"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight"}')}}]);

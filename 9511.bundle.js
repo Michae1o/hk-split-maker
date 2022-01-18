@@ -1,0 +1,1 @@
+(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[9511],{69511:e=>{"use strict";e.exports=JSON.parse('{"categoryName":"Eat Me Too","splitIds":["VengefulSpirit","EnterGreenpath","PlayerDeath"],"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight Category Extensions"}')}}]);
